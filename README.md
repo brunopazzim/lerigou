@@ -36,12 +36,12 @@ And you're done! Now that that the storm is raging on, never go back to your old
 ![Alt text](https://40.media.tumblr.com/e59ab2a5b521c2ebb0d380b130fbd546/tumblr_n1lwg4Dvjk1spqx5oo1_400.jpg)
 
 ## Disclaimer
-This gem uses the awesome Snowstorm.js (http://www.schillmania.com/projects/snowstorm/), and it's been done as a quick lesson to students.
+This gem uses the awesome Snowstorm.js (http://www.schillmania.com/projects/snowstorm/), and it's been done as a quick lesson for students.
 
 ## Contributing
 
 1. Here you stand and fork it ( http://github.com/<my-github-username>/lerigou/fork )
-2. Never lee us see you cry and create your feature branch (`git checkout -b my-new-feature`)
+2. Never let us see you cry and create your feature branch (`git checkout -b my-new-feature`)
 3. With your power flurrying through the air commit your changes (`git commit -am 'Add some feature'`)
 4. Stand in the light of day and push to the branch (`git push origin my-new-feature`)
 5. Rise like the break of dawn, creating new Pull Request
